@@ -1,0 +1,45 @@
+c:\users\bea5t\documents\visual studio 2010\Projects\WhiteBoard\WhiteBoard\bin\Debug\WhiteBoard.exe
+c:\users\bea5t\documents\visual studio 2010\Projects\WhiteBoard\WhiteBoard\bin\Debug\WhiteBoard.pdb
+c:\users\bea5t\documents\visual studio 2010\Projects\WhiteBoard\WhiteBoard\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bea5t\documents\visual studio 2010\Projects\WhiteBoard\WhiteBoard\obj\x86\Debug\MainWindow.baml
+c:\users\bea5t\documents\visual studio 2010\Projects\WhiteBoard\WhiteBoard\obj\x86\Debug\MainWindow.g.cs
+c:\users\bea5t\documents\visual studio 2010\Projects\WhiteBoard\WhiteBoard\obj\x86\Debug\App.g.cs
+c:\users\bea5t\documents\visual studio 2010\Projects\WhiteBoard\WhiteBoard\obj\x86\Debug\WhiteBoard_MarkupCompile.cache
+c:\users\bea5t\documents\visual studio 2010\Projects\WhiteBoard\WhiteBoard\obj\x86\Debug\WhiteBoard.g.resources
+c:\users\bea5t\documents\visual studio 2010\Projects\WhiteBoard\WhiteBoard\obj\x86\Debug\WhiteBoard.Properties.Resources.resources
+c:\users\bea5t\documents\visual studio 2010\Projects\WhiteBoard\WhiteBoard\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bea5t\documents\visual studio 2010\Projects\WhiteBoard\WhiteBoard\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bea5t\documents\visual studio 2010\Projects\WhiteBoard\WhiteBoard\obj\x86\Debug\WhiteBoard.exe
+c:\users\bea5t\documents\visual studio 2010\Projects\WhiteBoard\WhiteBoard\obj\x86\Debug\WhiteBoard.pdb
+c:\users\bea5t\documents\visual studio 2010\Projects\WhiteBoard\WhiteBoard\obj\x86\Debug\ShinyBlue.baml
+c:\users\bea5t\documents\visual studio 2010\Projects\WhiteBoard\WhiteBoard\obj\x86\Debug\App.baml
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\Backup\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\WhiteBoard.exe
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\Backup\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\WhiteBoard.pdb
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\Backup\WhiteBoard v.2\WhiteBoard\bin\Debug\WhiteBoard.exe
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\Backup\WhiteBoard v.2\WhiteBoard\bin\Debug\WhiteBoard.pdb
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\Backup\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\Backup\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\MainWindow.baml
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\Backup\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\ShinyBlue.baml
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\Backup\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\App.baml
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\Backup\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\MainWindow.g.cs
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\Backup\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\App.g.cs
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\Backup\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\WhiteBoard_MarkupCompile.cache
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\Backup\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\WhiteBoard.g.resources
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\Backup\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\WhiteBoard.Properties.Resources.resources
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\Backup\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\Backup\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\WhiteBoard.exe
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\WhiteBoard.pdb
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\WhiteBoard v.2\WhiteBoard\bin\Debug\WhiteBoard.exe
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\WhiteBoard v.2\WhiteBoard\bin\Debug\WhiteBoard.pdb
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\MainWindow.baml
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\ShinyBlue.baml
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\App.baml
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\MainWindow.g.cs
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\App.g.cs
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\WhiteBoard_MarkupCompile.cache
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\WhiteBoard.g.resources
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\WhiteBoard.Properties.Resources.resources
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\WhiteBoard v.2\WhiteBoard\obj\x86\Debug\GenerateResource.write.1.tlog
