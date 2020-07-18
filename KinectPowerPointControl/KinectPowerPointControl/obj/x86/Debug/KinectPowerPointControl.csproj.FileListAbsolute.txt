@@ -1,0 +1,31 @@
+C:\Users\Kaiser\Documents\Dropbox\UPQ\Cuatrimestre 5\ServicioSocial\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.csprojResolveAssemblyReference.cache
+C:\Users\Kaiser\Documents\Dropbox\UPQ\Cuatrimestre 5\ServicioSocial\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\MainWindow.baml
+C:\Users\Kaiser\Documents\Dropbox\UPQ\Cuatrimestre 5\ServicioSocial\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Kaiser\Documents\Dropbox\UPQ\Cuatrimestre 5\ServicioSocial\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\App.g.cs
+C:\Users\Kaiser\Documents\Dropbox\UPQ\Cuatrimestre 5\ServicioSocial\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl_MarkupCompile.cache
+C:\Users\Kaiser\Documents\Dropbox\UPQ\Cuatrimestre 5\ServicioSocial\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.g.resources
+C:\Users\Kaiser\Documents\Dropbox\UPQ\Cuatrimestre 5\ServicioSocial\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.Properties.Resources.resources
+C:\Users\Kaiser\Documents\Dropbox\UPQ\Cuatrimestre 5\ServicioSocial\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.csproj.GenerateResource.Cache
+C:\Users\Kaiser\Documents\Dropbox\UPQ\Cuatrimestre 5\ServicioSocial\KinectPowerPointControl\KinectPowerPointControl\bin\Debug\KinectPowerPointControl.exe
+C:\Users\Kaiser\Documents\Dropbox\UPQ\Cuatrimestre 5\ServicioSocial\KinectPowerPointControl\KinectPowerPointControl\bin\Debug\KinectPowerPointControl.pdb
+C:\Users\Kaiser\Documents\Dropbox\UPQ\Cuatrimestre 5\ServicioSocial\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.exe
+C:\Users\Kaiser\Documents\Dropbox\UPQ\Cuatrimestre 5\ServicioSocial\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.pdb
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\KinectPowerPointControl\KinectPowerPointControl\bin\Debug\KinectPowerPointControl.exe.manifest
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\KinectPowerPointControl\KinectPowerPointControl\bin\Debug\KinectPowerPointControl.application
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\KinectPowerPointControl\KinectPowerPointControl\bin\Debug\KinectPowerPointControl.exe
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\KinectPowerPointControl\KinectPowerPointControl\bin\Debug\KinectPowerPointControl.pdb
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\MainWindow.baml
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\MainWindow.g.cs
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\App.g.cs
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl_MarkupCompile.cache
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.g.resources
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.Properties.Resources.resources
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.exe.manifest
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.application
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.exe
+C:\Users\BEA5T\Documents\Visual Studio 2010\Projects\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.pdb
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.exe
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\KinectPowerPointControl\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.pdb
